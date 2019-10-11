@@ -1,0 +1,14 @@
+.recipe {
+    border-radius: 10px;
+    box-shadow: 5px 15px 5px 0px #000;
+    margin:20px;
+    justify-content: space-around;
+    background-color: white;
+    min-width: 40%;
+}
+
+.image {
+    border-radius: 30%;
+    width: 10rem;
+    height: 10rem;
+}
