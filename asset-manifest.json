@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recipe-app/static/css/main.89c8183a.chunk.css",
+    "main.js": "/recipe-app/static/js/main.f925734e.chunk.js",
+    "main.js.map": "/recipe-app/static/js/main.f925734e.chunk.js.map",
+    "runtime~main.js": "/recipe-app/static/js/runtime~main.2c4ead4e.js",
+    "runtime~main.js.map": "/recipe-app/static/js/runtime~main.2c4ead4e.js.map",
+    "static/js/2.c679f685.chunk.js": "/recipe-app/static/js/2.c679f685.chunk.js",
+    "static/js/2.c679f685.chunk.js.map": "/recipe-app/static/js/2.c679f685.chunk.js.map",
+    "index.html": "/recipe-app/index.html",
+    "precache-manifest.e4f08d1b9b607876c6b9e03ed09687bd.js": "/recipe-app/precache-manifest.e4f08d1b9b607876c6b9e03ed09687bd.js",
+    "service-worker.js": "/recipe-app/service-worker.js",
+    "static/css/main.89c8183a.chunk.css.map": "/recipe-app/static/css/main.89c8183a.chunk.css.map"
+  }
+}
